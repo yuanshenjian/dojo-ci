@@ -1,1 +1,0 @@
-{"virtualbox":{"/home/vagrant/docker-jenkins":{"guestpath":"/home/vagrant/docker-jenkins","hostpath":"/Users/sjyuan/Personal-sjyuan/ysj_hub/docker-jenkins","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/sjyuan/Personal-sjyuan/Vagrant/dojo-ci","disabled":false,"__vagrantfile":true}}}
