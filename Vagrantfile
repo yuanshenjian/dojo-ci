@@ -13,7 +13,7 @@ Vagrant.configure("2") do |config|
      config.vm.network "private_network", ip: "10.29.2.122"
      config.vm.network "forwarded_port", guest: 80, host: 80
      config.vm.network :forwarded_port, guest: 8080, host: 8080
-     # config.vm.provision :shell, path: "./setup-jenkins.sh"
+     config.vm.provision :shell, path: "./setup-env.sh"
      config.vm.provider "virtualbox" do |vb|
        vb.memory = "1024"
      end
