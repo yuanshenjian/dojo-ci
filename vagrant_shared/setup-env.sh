@@ -1,5 +1,14 @@
 #!/usr/bin/env bash
 
+#Install git
+sudo apt-get update
+sudo apt-get install -y git
+
+sudo add-apt-repository -y ppa:cwchien/gradle
+sudo apt-get update
+sudo apt-get install -y gradle
+
+
 # Install jdk8
 sudo apt-get -y install python-software-properties
 sudo add-apt-repository -y ppa:webupd8team/java
