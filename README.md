@@ -13,10 +13,14 @@ Dojo一期规划了四节课程：
 4. 持续交付
 ```
 
+---
+
 ### CI基础 & Setup环境
 从`What`、`Why`、`How`三个方面介绍了CI，涵盖了CI的原则和一些最佳实践，最后以利用[Vagrant](https://www.vagrantup.com/)在Mac OSX上Setup了一个Ubuntu环境，用做CI服务器。
 
 详细内容请参考 [程序袁的博客•dojo-ci-basics](http://blog.sjyuan.cc/dojo/ci/basics)
+
+---
 
 ### 手把手搭建CI
 基于上节课所搭建的CI Server，来手把手创建一个可以报告测试结果的CI，内容涵盖了两大部分， `配置Jenkins` 和 `Step by step Build`，Jenkins基础配置如下：
