@@ -19,4 +19,22 @@ Dojo一期规划了四节课程：
 详细内容请参考 [程序袁的博客•dojo-ci-basics](http://blog.sjyuan.cc/dojo/ci/basics)
 
 ### 手把手搭建CI
-待续
+基于上节课所搭建的CI Server，来手把手创建一个可以报告测试结果的CI，内容涵盖了两大部分， `配置Jenkins` 和 `Step by step Build`，Jenkins基础配置如下：
+
+```
+1. 配置系统环境。
+2. 安装系统工具。
+3. 安装实用Plugin。
+4. 配置用户权限。
+```
+
+Step by step Build如下：
+
+```
+1. 构建触发策略。
+2. 测试Success & Failure。
+3. 测试报告。
+4. 邮件通知。
+```
+详细内容请参考 [程序袁的博客•dojo-ci-step-by-step](http://blog.sjyuan.cc/dojo/ci/basics)
+
