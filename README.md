@@ -40,5 +40,5 @@ Step by step Build如下：
 3. 测试报告。
 4. 邮件通知。
 ```
-详细内容请参考 [程序袁的博客•dojo-ci-step-by-step](http://blog.sjyuan.cc/dojo/ci/basics)
+详细内容请参考 [程序袁的博客•dojo-ci-step-by-step](http://blog.sjyuan.cc/dojo/ci/step-by-step)
 
